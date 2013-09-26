@@ -1,0 +1,1 @@
+Schedules a job that prints proverbial hello world every 5 seconds using SLF4J log APIs.
